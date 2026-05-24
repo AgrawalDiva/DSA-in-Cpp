@@ -22,5 +22,6 @@ int main(){
     }
 
     cout<<"The second largest number is: "<<sec_largest;
+    return 0;
     
 }

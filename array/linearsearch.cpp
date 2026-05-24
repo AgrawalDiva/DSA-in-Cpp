@@ -32,4 +32,7 @@ int main(){
     else{
         cout<< "The number is not present in the array";
     }
+
+    return 0;
+    
 }

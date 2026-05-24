@@ -20,4 +20,6 @@ int main(){
         }
     }
     cout<<"The Largest number in the array is: "<<max_num;
+
+    return 0;
 }
